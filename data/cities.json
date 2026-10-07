@@ -1,0 +1,77 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "cityName": "Torregrosa",
+      "country": "Spain",
+      "date": "2026-10-01T02:01:30.215Z",
+      "notes": "cdc",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "41.559435023401036",
+        "lng": "0.772678736984318"
+      },
+      "id": "gptrFhrb16E"
+    },
+    {
+      "cityName": "Lartigue",
+      "country": "France",
+      "date": "2026-10-01T02:01:57.095Z",
+      "notes": "cdsac",
+      "emoji": "🇫🇷",
+      "position": {
+        "lat": "43.533592427836865",
+        "lng": "0.7064838416178"
+      },
+      "id": "DhA8R3sdUsE"
+    },
+    {
+      "cityName": "Beja",
+      "country": "Portugal",
+      "date": "2026-10-01T02:02:13.987Z",
+      "notes": "csad",
+      "emoji": "🇵🇹",
+      "position": {
+        "lat": "37.871764285885824",
+        "lng": "-7.923677453288435"
+      },
+      "id": "bm0YaJMm0B4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
